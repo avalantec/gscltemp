@@ -1,0 +1,4 @@
+[submodule "dfx_document_bac_payment"]
+	path = dfx_document_bac_payment
+	url = https://github.com/stefanjaw/dfx_document_bac_payment.git
+	branch = odoov12
